@@ -22,6 +22,20 @@ The finished project demonstrates not only AI\-assisted visual creation, but als
 
 **Status:** Complete
 
+---
+
+## Quick Navigation
+
+- [Meet the Commander](#meet-the-commander)
+- [Design & AI Collaboration Process](#design--ai-collaboration-process)
+- [Visual Case Study: Dragonmount](#visual-case-study-dragonmount)
+- [Project Challenges & Lessons Learned](#project-challenges--lessons-learned)
+- [Featured Work](#featured-work)
+- [Learning Context & Skills Demonstrated](#learning-context--skills-demonstrated)
+- [Project Status & Attribution](#project-status--attribution)
+
+---
+
 ## Meet the Commander
 
 <p align="center">
