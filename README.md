@@ -166,6 +166,80 @@ The resulting cycle demonstrates how progressively refined prompts and explicit 
   <strong>079/100</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>080/100</strong>
 </p>
+
+---
+
+## Project Challenges & Lessons Learned
+
+Building a cohesive 100\-card collection revealed several challenges that were not apparent when the project began. Many of the most valuable lessons came from learning how to communicate requirements to generative AI, evaluate the resulting output, and maintain consistency as the project expanded.
+
+### Maintaining Consistency at Scale
+
+Creating one successful image was considerably easier than maintaining a recognizable visual system across 100 separate assets.
+
+As the deck grew, previously approved decisions became requirements for future cards. Card frames, title treatments, mana colors, typography, collector numbers, symbols, layout, and overall artistic style all needed to remain recognizable throughout the collection.
+
+**Lesson learned:** Large AI\-assisted projects benefit from treating established creative decisions as reusable specifications rather than redefining the desired result for every generation.
+
+### Controlling the Scope of a Revision
+
+One recurring challenge was requesting a small modification without unintentionally changing other successful elements of an image.
+
+A request as simple as changing weather, clothing, a collector number, or one piece of card text could result in unrelated changes elsewhere in the generated asset.
+
+Over time, revision instructions became more explicit, using language such as **"preserve the artwork," "preserve the card layout,"** and **"change one thing."**
+
+**Lesson learned:** Effective prompting is not only about describing what should change. Clearly identifying what **must not change** can be equally important.
+
+### Translating Creative Ideas into Testable Requirements
+
+Early concepts often began as broad ideas: a character, location, magical event, or particular atmosphere.
+
+Before generation, those ideas needed to become concrete visual requirements involving composition, clothing, environment, lighting, color, objects, magical effects, card mechanics, and formatting.
+
+This transformed subjective creative direction into criteria that could be evaluated against a generated result.
+
+**Lesson learned:** Better\-defined requirements made it easier to determine whether an AI\-generated result actually satisfied the intended goal.
+
+### Recognizing When to Regenerate
+
+Not every generation was successful.
+
+Some outputs contained incorrect text, incorrect collector numbers, incomplete layouts, altered compositions, or visual details that did not match the established project requirements.
+
+Rather than forcing an unsuccessful result into the collection, those outputs were treated as iterations. Requirements were clarified and the asset was generated again.
+
+**Lesson learned:** Generative AI output should be reviewed rather than automatically accepted. Human evaluation and quality control remained essential throughout the project.
+
+### Prompting Became Iterative
+
+There was rarely a single "perfect prompt."
+
+Successful assets often emerged through a sequence of instructions in which the result of one generation revealed what needed to be clarified in the next.
+
+This changed the way I approached AI interaction. Instead of treating prompting as a one\-time command, I began treating it as an iterative design conversation.
+
+**Lesson learned:** Working effectively with generative AI often resembles an iterative feedback loop: define, generate, evaluate, refine, and repeat.
+
+### Organization Became Part of the Project
+
+Once the collection approached 100 assets, file organization, collector numbering, card categories, naming conventions, and version awareness became important parts of completing the work.
+
+The final collection was organized by card type and collector number before being transferred into this GitHub repository.
+
+**Lesson learned:** Producing assets is only part of completing a large project. Organization and documentation determine whether those assets can be maintained, reviewed, and presented effectively.
+
+### Human Direction Remained Central
+
+The most important lesson from the project was understanding the distinction between **AI generation and human direction**.
+
+Generative AI provided visualization and iteration capabilities, but the technology did not independently determine the project's goals, select the Commander, establish the deck's color identity, choose the mechanical foundations, decide which Wheel of Time concepts belonged in the deck, evaluate whether an image was successful, or determine when an asset was finished.
+
+Those decisions remained part of my role throughout the project.
+
+**Lesson learned:** I found generative AI most useful as a collaborative tool when I provided clear intent, constraints, evaluation, and direction rather than expecting the technology to determine the finished product on its own.
+
+
 <p align="center">
   <strong>Rand al'Thor, Dragon Reborn</strong><br>
   <em>MTG mechanical foundation: Narset, Enlightened Exile</em>
