@@ -318,6 +318,39 @@ The following cards provide a small cross\-section of the finished collection an
 
 ---
 
+## Browse the Complete Deck
+
+The complete 100-card collection is available in this repository. Cards are organized by card type and collector number.
+
+### Creatures
+[Browse cards 001–025: Creatures](images/creatures/)
+
+### Artifacts
+[Browse cards 026–033: Artifacts](images/artifacts/)
+
+### Enchantments
+[Browse cards 034–042: Enchantments](images/enchantments/)
+
+### Instants
+[Browse cards 043–050: Instants](images/instants/)
+
+### Sorceries
+[Browse cards 051–060: Sorceries](images/sorcery/)
+
+### Named Lands
+[Browse cards 061–070: Named Lands](images/land/)
+
+### Dragonmount — Basic Land: Mountain
+[Browse cards 071–080: Dragonmount](images/land2/)
+
+### Tar Valon — Basic Land: Island
+[Browse cards 081–090: Tar Valon](images/land3/)
+
+### Field of Merrilor — Basic Land: Plains
+[Browse cards 091–100: Field of Merrilor](images/land4/)
+
+---
+
 ## Learning Context & Skills Demonstrated
 
 ### Applying Formal AI Learning to an Independent Project
