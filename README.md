@@ -87,6 +87,29 @@ Approved cards were assigned collector numbers from **001/100 through 100/100**,
 
 The completed collection was then organized in this repository so that the design process and finished work could be presented as a cohesive portfolio project.
 
+---
+
+## Visual Case Study: Dragonmount
+
+One of the project's clearest examples of iterative AI\-assisted design is the **Dragonmount Basic Land cycle**.
+
+Rather than generating ten unrelated Mountain illustrations, I established Dragonmount as the consistent visual subject for cards **071/100–080/100**. The mountain, surrounding landscape, Wheel of Time card frame, Mountain mana treatment, and overall composition served as shared design requirements across the cycle.
+
+Individual cards were then developed by changing specific environmental variables while preserving that established visual identity. These variations explored differences in time of day, weather, season, atmosphere, and lighting.
+
+This created an additional challenge for generative AI: **change what is requested without unnecessarily changing what has already been approved.**
+
+During iteration, prompts increasingly emphasized requirements such as:
+
+- Preserve the established Dragonmount silhouette and composition.
+- Preserve the existing card frame and visual aesthetic.
+- Modify only the requested environmental conditions.
+- Maintain consistent Basic Land formatting.
+- Preserve collector numbering and footer conventions.
+- Review generated results and regenerate assets when requirements were not satisfied.
+
+The resulting cycle demonstrates how progressively refined prompts and explicit constraints can help maintain visual continuity across a collection of related AI\-assisted assets.
+
 
 <p align="center">
   <strong>Rand al'Thor, Dragon Reborn</strong><br>
