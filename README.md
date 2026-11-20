@@ -239,6 +239,14 @@ Those decisions remained part of my role throughout the project.
 
 **Lesson learned:** I found generative AI most useful as a collaborative tool when I provided clear intent, constraints, evaluation, and direction rather than expecting the technology to determine the finished product on its own.
 
+---
+
+## Featured Work
+
+The finished deck includes 100 cards spanning creatures, artifacts, enchantments, instants, sorceries, named lands, and Basic Lands. Each category presented different design considerations, from adapting character abilities into existing Magic mechanics to visualizing objects, locations, magical events, and narrative moments from *The Wheel of Time*.
+
+The following cards provide a small cross\-section of the finished collection and demonstrate the range of visual and thematic challenges explored during the project.
+
 
 <p align="center">
   <strong>Rand al'Thor, Dragon Reborn</strong><br>
