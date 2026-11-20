@@ -33,6 +33,7 @@ The finished project demonstrates not only AI\-assisted visual creation, but als
 - [Featured Work](#featured-work)
 - [Learning Context & Skills Demonstrated](#learning-context--skills-demonstrated)
 - [Project Status & Attribution](#project-status--attribution)
+- [Browse the Complete Deck](#browse-the-complete-deck)
 
 ---
 
