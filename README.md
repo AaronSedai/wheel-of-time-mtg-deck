@@ -247,7 +247,60 @@ The finished deck includes 100 cards spanning creatures, artifacts, enchantments
 
 The following cards provide a small cross\-section of the finished collection and demonstrate the range of visual and thematic challenges explored during the project.
 
+### Selected Cards
 
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="images/creatures/13.%20Legendary%20Creature%20Moiraine%20Damodred.png"
+           alt="Moiraine Damodred custom proxy card"
+           width="280"><br>
+      <strong>Moiraine Damodred</strong><br>
+      <em>Creature</em>
+    </td>
+    <td align="center" width="300">
+      <img src="images/artifacts/29.%20Artifact%20Waygate.png"
+           alt="Waygate custom proxy card"
+           width="280"><br>
+      <strong>Waygate</strong><br>
+      <em>Artifact</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="300">
+      <img src="images/enchantments/37.%20Enchantment%20Ta'veren.png"
+           alt="Ta'veren custom proxy card"
+           width="280"><br>
+      <strong>Ta'veren</strong><br>
+      <em>Enchantment</em>
+    </td>
+    <td align="center" width="300">
+      <img src="images/instants/44.%20Instant%20Balefire%20-%20Pattern%20Reversal.png"
+           alt="Balefire, Pattern Reversal custom proxy card"
+           width="280"><br>
+      <strong>Balefire, Pattern Reversal</strong><br>
+      <em>Instant</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="300">
+      <img src="images/sorcery/54.%20Sorcery%20The%20Bowl%20of%20Winds.png"
+           alt="The Bowl of Winds custom proxy card"
+           width="280"><br>
+      <strong>The Bowl of Winds</strong><br>
+      <em>Sorcery</em>
+    </td>
+    <td align="center" width="300">
+      <img src="images/land/70.%20Land%20Whitebridge%20-%20Spun%20Glass.png"
+           alt="Whitebridge, Spun Glass custom proxy card"
+           width="280"><br>
+      <strong>Whitebridge, Spun Glass</strong><br>
+      <em>Named Land</em>
+    </td>
+  </tr>
+</table>
 <p align="center">
   <strong>Rand al'Thor, Dragon Reborn</strong><br>
   <em>MTG mechanical foundation: Narset, Enlightened Exile</em>
