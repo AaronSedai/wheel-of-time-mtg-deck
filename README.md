@@ -110,7 +110,62 @@ During iteration, prompts increasingly emphasized requirements such as:
 
 The resulting cycle demonstrates how progressively refined prompts and explicit constraints can help maintain visual continuity across a collection of related AI\-assisted assets.
 
+### Dragonmount Basic Land Cycle
 
+<p align="center">
+  <img src="images/land2/71.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 071/100" width="280">
+  &nbsp;&nbsp;
+  <img src="images/land2/72.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 072/100" width="280">
+</p>
+
+<p align="center">
+  <strong>071/100</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>072/100</strong>
+</p>
+
+<p align="center">
+  <img src="images/land2/73.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 073/100" width="280">
+  &nbsp;&nbsp;
+  <img src="images/land2/74.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 074/100" width="280">
+</p>
+
+<p align="center">
+  <strong>073/100</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>074/100</strong>
+</p>
+
+<p align="center">
+  <img src="images/land2/75.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 075/100" width="280">
+  &nbsp;&nbsp;
+  <img src="images/land2/76.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 076/100" width="280">
+</p>
+
+<p align="center">
+  <strong>075/100</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>076/100</strong>
+</p>
+
+<p align="center">
+  <img src="images/land2/77.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 077/100" width="280">
+  &nbsp;&nbsp;
+  <img src="images/land2/78.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 078/100" width="280">
+</p>
+
+<p align="center">
+  <strong>077/100</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>078/100</strong>
+</p>
+
+<p align="center">
+  <img src="images/land2/79.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 079/100" width="280">
+  &nbsp;&nbsp;
+  <img src="images/land2/80.%20Basic%20Land%20Mountain.png" alt="Dragonmount card 080/100" width="280">
+</p>
+
+<p align="center">
+  <strong>079/100</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>080/100</strong>
+</p>
 <p align="center">
   <strong>Rand al'Thor, Dragon Reborn</strong><br>
   <em>MTG mechanical foundation: Narset, Enlightened Exile</em>
