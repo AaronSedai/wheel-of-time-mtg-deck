@@ -301,6 +301,68 @@ The following cards provide a small cross\-section of the finished collection an
     </td>
   </tr>
 </table>
+
+---
+
+## Learning Context & Skills Demonstrated
+
+### Applying Formal AI Learning to an Independent Project
+
+Development of this project coincided with my completion of the **Google AI Professional Certificate**.
+
+Working on both simultaneously gave me an opportunity to apply AI concepts beyond individual course exercises. As I learned new approaches to prompting, planning, content creation, responsible AI use, and human evaluation, I was also working through similar challenges within a sustained independent project.
+
+The deck became a practical environment for reinforcing those lessons. Rather than using generative AI for isolated tasks, I needed to maintain requirements and creative continuity across a collection of 100 related assets.
+
+This helped transform concepts I was learning into habits I could apply repeatedly throughout a real project.
+
+### Skills Demonstrated
+
+**Generative AI Collaboration**
+
+Used generative AI as an iterative creative partner while maintaining responsibility for project direction, requirements, evaluation, and final asset selection.
+
+**Prompt Development & Refinement**
+
+Developed increasingly structured prompts that distinguished between elements that should change and previously approved elements that needed to remain consistent.
+
+**Requirements Definition**
+
+Translated creative ideas into specific requirements involving mechanics, composition, characters, environments, clothing, objects, lighting, card layout, typography, and visual continuity.
+
+**Output Evaluation & Quality Assurance**
+
+Reviewed generated assets against defined requirements and rejected or regenerated outputs containing incorrect text, collector numbers, incomplete layouts, inconsistent artwork, or other deviations.
+
+**Iterative Problem\-Solving**
+
+Used unsuccessful or incomplete outputs as feedback for refining subsequent instructions rather than treating the first generated result as final.
+
+**Creative and Mechanical Mapping**
+
+Connected characters, locations, artifacts, events, and themes from *The Wheel of Time* with existing Magic: The Gathering mechanics while maintaining the deck's established Jeskai design.
+
+**Consistency Management**
+
+Maintained shared visual conventions across a 100\-card collection, including framing, typography, iconography, color treatments, collector numbering, and recurring environmental compositions.
+
+**Project Organization**
+
+Structured final assets by card type and collector number and organized the completed collection for presentation and future maintenance.
+
+**Git & GitHub Documentation**
+
+Used GitHub to organize project assets, maintain a versioned project repository, document the development process, and create a portfolio\-ready presentation of the completed work.
+
+### Key Takeaway
+
+The project reinforced one principle more than any other:
+
+**AI was most effective when treated as a collaborator within a human\-directed process, not as a replacement for creative judgment.**
+
+The quality of the finished work depended on clearly defining the goal, communicating constraints, evaluating the result, identifying where it failed to meet expectations, and deciding what should happen next.
+
+
 <p align="center">
   <strong>Rand al'Thor, Dragon Reborn</strong><br>
   <em>MTG mechanical foundation: Narset, Enlightened Exile</em>
