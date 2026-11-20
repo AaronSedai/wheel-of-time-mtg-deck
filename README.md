@@ -362,6 +362,26 @@ The project reinforced one principle more than any other:
 
 The quality of the finished work depended on clearly defining the goal, communicating constraints, evaluating the result, identifying where it failed to meet expectations, and deciding what should happen next.
 
+---
+
+## Project Status & Attribution
+
+This repository documents an **unofficial, noncommercial fan and portfolio project** created to explore human\-AI collaboration, iterative design, and the practical application of generative AI skills.
+
+The project is not affiliated with, sponsored by, approved by, or endorsed by the owners or publishers of *Magic: The Gathering* or *The Wheel of Time*.
+
+**Magic: The Gathering** game concepts, mechanics, terminology, and related intellectual property belong to their respective rights holders, including Wizards of the Coast LLC.
+
+**The Wheel of Time** characters, locations, terminology, story elements, and related intellectual property belong to their respective rights holders.
+
+The custom proxy cards presented here were created for personal, educational, portfolio, and fan\-project purposes. They are **not official Magic: The Gathering cards and are not intended for sale or commercial distribution.**
+
+Generative AI was used as part of the project's visual design and iteration process. Creative direction, thematic and mechanical mapping, requirements definition, prompt refinement, output evaluation, asset selection, organization, and project documentation were performed as part of the human\-directed project workflow.
+
+### Wizards of the Coast Fan Content Notice
+
+*The Wheel of Time × Magic: The Gathering AI\-Assisted Commander Deck Design Project* is unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+
 
 <p align="center">
   <strong>Rand al'Thor, Dragon Reborn</strong><br>
