@@ -22,4 +22,15 @@ The finished project demonstrates not only AI\-assisted visual creation, but als
 
 **Status:** Complete
 
+## Meet the Commander
 
+<p align="center">
+  <img src="images/creatures/1.%20Legendary%20Creature%20Rand%20al'Thor%20-%20Dragon%20Reborn.png"
+       alt="Rand al'Thor, Dragon Reborn custom proxy card"
+       width="400">
+</p>
+
+<p align="center">
+  <strong>Rand al'Thor, Dragon Reborn</strong><br>
+  <em>MTG mechanical foundation: Narset, Enlightened Exile</em>
+</p>
